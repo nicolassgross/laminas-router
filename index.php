@@ -1,5 +1,7 @@
 <?php
 
+include_once "vendor/autoload.php";
+
 use Laminas\Router\Http\Literal;
 use Laminas\Router\Http\Segment;
 
