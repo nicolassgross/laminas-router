@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laminas/laminas-router": "^3.9"
+    }
+}
